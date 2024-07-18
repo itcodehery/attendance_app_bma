@@ -1,0 +1,2 @@
+# attendance_app_bma
+This is a simple attendance app for BMA students. It is a simple app that allows students to check in and check out of class. The app is built using Flutter. The app is hosted on Supabase and uses a PostgreSQL database to store the attendance data.
